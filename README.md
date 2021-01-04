@@ -9,6 +9,7 @@
 <a href="https://github.com/aphananthe42">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aphananthe42&show_icons=true&count_private=true&theme=prussian" />
 </a>
+
 <a href="https://github.com/aphananthe42">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&layout=compact&theme=prussian" />
 </a>
