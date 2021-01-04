@@ -1,4 +1,6 @@
-# 🐈 Hi, I'm Aphananthe 
+# Who is Aphananthe?
+
+## 🐈 Profile
 
 👤 Real Name: Ryota Miyazaki.<br>
 
