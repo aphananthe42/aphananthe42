@@ -6,7 +6,9 @@
   </a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aphananthe42)](https://github.com/aphananthe42)
+[![Aphananthe's github stats](https://github-readme-stats.vercel.app/api?username=aphananthe42&show_icons=true&count_private=true&theme=prussian)](https://github.com/aphananthe42)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&layout=compact&theme=prussian)](https://github.com/aphananthe42)
 
 <a href="https://github.com/aphananthe42">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aphananthe42&show_icons=true&count_private=true&theme=prussian" />
