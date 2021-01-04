@@ -2,11 +2,14 @@
 
 ## 🐈 Profile
 
-👤 Real Name: Ryota Miyazaki.<br>
+Real Name: Ryota Miyazaki.<br>
 
-💻 I'm currently learning Swift, iOS App Development.<br>
+I'm currently learning Swift, iOS App Development.<br>
 
-📱 My Apps I've released to the AppStore⬇️
+## 📱 My Apps
+
+The iOS Applications I've released to the AppStore.<br>
+Please download from the link below.
 
 <a href="https://apps.apple.com/us/developer/ryota-miyazaki/id1521398191?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&h=fdf6618051739407931f48edd9e98248" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
