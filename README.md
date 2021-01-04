@@ -16,5 +16,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aphananthe42&repo=PokeSearch" />
 </a>
 <a href="https://github.com/aphananthe42/Covid19-InfoApp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aphananthe42&repo=Covid19-InfoApp" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aphananthe42&repo=Covid19-InfoApp" />
 </a>
