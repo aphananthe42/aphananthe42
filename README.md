@@ -29,10 +29,12 @@ Please download from the link below.
 
 
 ## 💻 Skill (Beginner Level)
-<img src="https://img.shields.io/badge/-Swift-FA7343.svg?logo=Swift&style=flat">
-<img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=Firebase&style=flat">
-<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=Git&style=flat">
 
+<a>
+  <img src="https://img.shields.io/badge/-Swift-FA7343.svg?logo=Swift&style=flat">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=Firebase&style=flat">
+  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=Git&style=flat">
+</a>
 
 ## ⚡️ Status
 
