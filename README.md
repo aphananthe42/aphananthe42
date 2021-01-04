@@ -18,7 +18,7 @@
 
 Mail Address: rmnisso0104@gmail.com
 
-## ⚡️
+## ⚡️Status
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/aphananthe42/posts.svg)](http://qiita.com/aphananthe42) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/aphananthe42/contributions.svg)](http://qiita.com/aphananthe42) [![My Qiita followers](https://qiita-badge.apiapi.app/s/aphananthe42/followers.svg)](http://qiita.com/aphananthe42)
 
