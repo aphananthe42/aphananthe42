@@ -13,8 +13,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&layout=compact&theme=nord" />
 </a>
 <a href="https://github.com/aphananthe42/PokeSearch">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aphananhte42&repo=PokeSearch" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aphananthe42&repo=PokeSearch" />
 </a>
 <a href="https://github.com/aphananthe42/Covid19-InfoApp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aphananhte42&repo=Covid19-InfoApp" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aphananthe42&repo=Covid19-InfoApp" />
 </a>
