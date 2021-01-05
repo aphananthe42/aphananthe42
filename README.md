@@ -30,10 +30,10 @@ Please download from the link below.
 
 ## 💻 Skill (Beginner Level)
 
-<a> <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/> </a>
-<a> <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat&logo=firebase"/> </a>
-<a> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/> </a>
-<a> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/> </a> 
+<a> <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/> </a>
+<a> <img src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?&style=flat&logo=firebase"/> </a>
+<a> <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/> </a>
+<a> <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/> </a> 
 
 
 ## ⚡️ Status
