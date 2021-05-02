@@ -39,6 +39,12 @@ Please download from the link below.
 <a> <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/> </a>
 
 
+## ❤️ Preference
+
+<a> <img src="https://img.shields.io/badge/Apple-000000.svg?&style=flat&logo=apple&logoColor=white"/> </a>
+<a> <img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=raspberry-pi&logoColor=white"/> </a>
+
+
 ## ⚡️ Status
 
 [![GitHub Arrivals](https://komarev.com/ghpvc/?username=aphananthe42)](https://github.com/aphananthe42) [![My Qiita posts](https://qiita-badge.apiapi.app/s/aphananthe42/posts.svg)](http://qiita.com/aphananthe42) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/aphananthe42/contributions.svg)](http://qiita.com/aphananthe42) [![My Qiita followers](https://qiita-badge.apiapi.app/s/aphananthe42/followers.svg)](http://qiita.com/aphananthe42)
