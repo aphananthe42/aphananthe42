@@ -34,9 +34,7 @@ Please download from the link below.
 <a> <img src="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=github&logoColor=white"/> </a> 
 <a> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black"/> </a> <br>
 <a> <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white"> </a>
-<a> <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/> </a> <br>
-<a> <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white"> </a>
-<a> <img src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=NestJS&logoColor=white"> </a>
+<a> <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/> </a>
 
 
 ## ⚡️ Status
