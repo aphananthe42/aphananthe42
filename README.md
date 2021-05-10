@@ -31,10 +31,10 @@ Please download from the link below.
 ## 💻 Experience
 
 <a> <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/> </a>
-<a> <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white"/> </a> 
-<a> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black"/> </a> <br>
+<a> <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white"/> </a> <br>
 <a> <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white"> </a>
-<a> <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/> </a>
+<a> <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white"/> </a> <br>
+<a> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black"/> </a>
 
 
 ## ⚡️ Status
