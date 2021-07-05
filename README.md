@@ -28,7 +28,7 @@ Please download from the link below.
 <a href="https://apps.apple.com/us/developer/ryota-miyazaki/id1521398191?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&h=fdf6618051739407931f48edd9e98248" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
 
-## 💻 Skill
+## 💻 Experience&Like
 
 <a><img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white"/></a>
@@ -38,10 +38,11 @@ Please download from the link below.
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=flat&logo=vuetify&logoColor=white"></a><br>
-<a><img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white"></a><br>
+<a><img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=raspberrypi&logoColor=white"></a>
 
 
-## ⚡️ Status
+## ⚡️ Stats
 
 [![GitHub Arrivals](https://komarev.com/ghpvc/?username=aphananthe42)](https://github.com/aphananthe42) [![My Qiita posts](https://qiita-badge.apiapi.app/s/aphananthe42/posts.svg)](http://qiita.com/aphananthe42) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/aphananthe42/contributions.svg)](http://qiita.com/aphananthe42) [![My Qiita followers](https://qiita-badge.apiapi.app/s/aphananthe42/followers.svg)](http://qiita.com/aphananthe42)
 
