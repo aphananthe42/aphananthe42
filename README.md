@@ -38,7 +38,6 @@ Please download from the link below.
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=flat&logo=vuetify&logoColor=white"></a><br>
-<a><img src="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=raspberrypi&logoColor=white"></a>
 
 
 ## ⚡️ Stats
