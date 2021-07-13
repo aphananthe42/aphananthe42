@@ -32,6 +32,7 @@ Please download from the link below.
 
 <a><img src="https://img.shields.io/badge/Swift-FA7343.svg?&style=flat&logo=swift&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white"></a><br>
 
 
 ## ⚡️ Stats
