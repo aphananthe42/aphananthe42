@@ -5,26 +5,7 @@
 
 Real Name: Ryota Miyazaki.<br>
 
-I'm currently learning Swift, iOS App Development.<br>
-
-
-## 📩 Contact
-
-<p>
-  <a href="https://twitter.com/aphananthe42" target="_blank">
-  <img alt="Twitter: aphananthe42" src="https://img.shields.io/twitter/follow/aphananthe42.svg?style=social" />
-</p>
-
-Mail Address: rmnisso0104@gmail.com
-
-
-## 📱 My Apps
-
-The iOS Applications I've released to the AppStore.<br>
-
-Please download from the link below.
-
-<a href="https://apps.apple.com/us/developer/ryota-miyazaki/id1521398191?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&h=fdf6618051739407931f48edd9e98248" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
+Swift, TypeScript/Vue<br>
 
 
 ## 💻 Experience
