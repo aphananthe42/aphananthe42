@@ -5,7 +5,7 @@
 
 Real Name: Ryota Miyazaki.<br>
 
-Swift, TypeScript/Vue<br>
+iOS/Swift<br>
 
 
 ## 💻 Experience
@@ -15,9 +15,6 @@ Swift, TypeScript/Vue<br>
 <a><img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white"/></a><br>
 <a><img src="https://img.shields.io/badge/Swift-FA7343.svg?&style=flat&logo=swift&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black"/></a><br>
-<a><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vue.js&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=flat&logo=vuetify&logoColor=white"></a><br>
 
 
 ## ⚡️ Stats
