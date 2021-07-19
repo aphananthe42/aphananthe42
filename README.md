@@ -3,7 +3,7 @@
 
 ## 👤 Profile
 
-Real Name: Ryota Miyazaki.<br>
+Real Name: Ryota Miyazaki<br>
 
 iOS/Swift<br>
 
