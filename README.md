@@ -17,5 +17,5 @@ iOS/Swift<br>
 </a>
 
 <a href="https://github.com/aphananthe42">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&layout=compact&theme=tokyonight" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&hide=ruby&layout=compact&theme=tokyonight" />
 </a>
