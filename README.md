@@ -26,6 +26,6 @@ iOS/Swift<br>
     align="left"
     width="400px"
     height="170px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&layout=compact&theme=tokyonight&hide=python"
   />
 </a>
