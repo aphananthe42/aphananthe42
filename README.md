@@ -5,7 +5,7 @@
 
 Real Name: Ryota Miyazaki<br>
 
-iOS/Swift<br>
+iOS｜AtCoder｜Raspberry Pi<br>
 
 
 ## ⚡️ Stats
