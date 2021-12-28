@@ -5,9 +5,9 @@
 
 Swift🦅｜Python🐍｜AtCoder🦄 <br>
 
-AtCoder: https://atcoder.jp/users/Aphananthe <br>
-Zenn: https://zenn.dev/aphananthe42 <br>
-Qiita: https://qiita.com/aphananthe42 <br>
+- [AtCoder](https://atcoder.jp/users/Aphananthe)
+- [Zenn](https://zenn.dev/aphananthe42)
+- [Qiita](https://qiita.com/aphananthe42)
 
 
 ## ⚡️ Stats
