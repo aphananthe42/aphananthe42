@@ -3,9 +3,7 @@
 
 ## 👤 Profile
 
-Real Name: Ryota Miyazaki<br>
-
-Swift｜Python｜AtCoder<br>
+Swift🦅｜Python🐍｜AtCoder🦄<br>
 
 
 ## ⚡️ Stats
