@@ -3,7 +3,7 @@
 
 ## 👤 Profile
 
-Swift 🦅 ｜ Python 🐍 ｜ AtCoder 🦄 <br>
+Swift 🕊 ｜ Python 🐍 ｜ AtCoder 🦄 <br>
 
 - [AtCoder](https://atcoder.jp/users/Aphananthe)
 - [Zenn](https://zenn.dev/aphananthe42)
