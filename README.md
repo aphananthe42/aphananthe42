@@ -3,7 +3,7 @@
 
 ## 👤 Profile
 
-🐟🐟🐟 ฅ^•ω•^ฅ 🐟🐟🐟
+⁽⁽ฅ₍₍⁽⁽ฅ^•ω•^ฅ₎₎⁾⁾ฅ₎₎
 
 - [AtCoder](https://atcoder.jp/users/Aphananthe)
 - [Zenn](https://zenn.dev/aphananthe42)
