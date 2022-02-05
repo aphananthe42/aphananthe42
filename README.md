@@ -3,6 +3,8 @@
 
 ## 👤 Profile
 
+I am the President of the United States of America.
+
 - [AtCoder](https://atcoder.jp/users/Aphananthe)
 - [Zenn](https://zenn.dev/aphananthe42)
 - [Qiita](https://qiita.com/aphananthe42)
