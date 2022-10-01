@@ -9,14 +9,14 @@
 - [Zenn](https://zenn.dev/aphananthe42)
 
 
-## 📱 MyApp
+## 🛠 Dev
 
 - [Yukkuri Mode](https://apple.co/3pT5XRd) <br>
   Stutter supporting app
   
 - [Misselex](https://apple.co/3oSj6ed) <br>
   Simple 2D game app
-
+ 
 
 ## ⚡️ Stats
 
