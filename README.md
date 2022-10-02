@@ -16,6 +16,9 @@
   
 - [Misselex](https://apple.co/3oSj6ed) <br>
   Simple 2D game app
+  
+- [Wolffia](https://github.com/aphananthe42/Wolffia) <br>
+  Twitter bot
  
 
 ## ⚡️ Stats
