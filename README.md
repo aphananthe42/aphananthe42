@@ -18,7 +18,7 @@
   Simple 2D game app
   
 - [ASMR割引情報お知らせちゃん](https://twitter.com/asmr_waribiki) <br>
-  Seleniumを使って抽出したえっちASMR割引情報を定期ツイートするすごいBot on AWS Lambda
+  Seleniumを使って抽出したえっちASMR割引情報を定期ツイートするTwitterBot on AWS Lambda
  
 
 ## ⚡️ Stats
