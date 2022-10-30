@@ -17,8 +17,8 @@
 - [Misselex](https://apple.co/3oSj6ed) <br>
   Simple 2D game app
   
-- [Wolffia](https://github.com/aphananthe42/Wolffia) <br>
-  Twitter bot
+- [ASMR割引情報お知らせちゃん](https://twitter.com/asmr_waribiki) <br>
+  Seleniumを使って抽出したえっちASMR割引情報を定期ツイートするすごいBot on AWS Lambda
  
 
 ## ⚡️ Stats
