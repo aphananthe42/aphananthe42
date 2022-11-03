@@ -3,6 +3,8 @@
 
 ## 👤 Profile
 
+iOS Developer as job, lover of Swift and Python.
+
 🐟🐟🐟~　　🐈三
 
 - [AtCoder](https://atcoder.jp/users/Aphananthe)
