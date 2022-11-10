@@ -19,8 +19,8 @@ iOS Developer as job, lover of Swift and Python.
 - [Misselex](https://apple.co/3oSj6ed) <br>
   Simple 2D game app
   
-- [ASMR割引情報お知らせちゃん](https://twitter.com/asmr_waribiki) <br>
-  Seleniumを使って抽出したえっちASMR割引情報を定期ツイートするTwitterBot on AWS Lambda
+- [@asmr_waribiki](https://twitter.com/asmr_waribiki) <br>
+  Twitter bot tweeting R18 ASMR voice work discount info by using Selenium on AWS Lambda
  
 
 ## ⚡️ Stats
