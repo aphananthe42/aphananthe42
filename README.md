@@ -20,7 +20,7 @@ iOS Developer as job, lover of Swift and Python.
   Simple 2D game app
   
 - [@asmr_waribiki](https://twitter.com/asmr_waribiki) <br>
-  Twitter bot tweeting R18 ASMR voice work discount info by using Selenium on AWS Lambda
+  Twitter bot tweeting R18 ASMR discount info, using Selenium for scraping, working on AWS Lambda.
  
 
 ## ⚡️ Stats
