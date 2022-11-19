@@ -3,7 +3,8 @@
 
 ## 👤 Profile
 
-iOS Developer as job, lover of Swift and Python.
+iOS Developer as job. <br>
+like: Swift, Python
 
 🐟🐟🐟~　　🐈三
 
