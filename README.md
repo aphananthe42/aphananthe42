@@ -6,8 +6,6 @@
 iOS Developer as job. <br>
 like: Swift, Python
 
-🐟🐟🐟~　　🐈三
-
 - [AtCoder](https://atcoder.jp/users/aphananthe42)
 - [Zenn](https://zenn.dev/aphananthe42)
 
