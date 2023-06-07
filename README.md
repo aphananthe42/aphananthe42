@@ -3,8 +3,8 @@
 
 ## 👤 Profile
 
-iOS Developer as job. <br>
-like: Swift, Python
+iOS Developer as job 💻 <br>
+Seeker of good sleep 🛌
 
 - [AtCoder](https://atcoder.jp/users/aphananthe42)
 - [Zenn](https://zenn.dev/aphananthe42)
