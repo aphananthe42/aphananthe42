@@ -13,10 +13,13 @@ Seeker of good sleep 🛌
 ## 🛠 Dev
   
 - [Misselex](https://apple.co/3oSj6ed) <br>
-  Simple 2D game app
+  Simple 2D game app.
   
 - [@asmr_waribiki](https://twitter.com/asmr_waribiki) <br>
   Twitter bot tweeting R18 ASMR discount info, using Selenium for scraping, working on AWS Lambda.
+  
+- [PyCliGPT](https://github.com/aphananthe42/pycligpt) <br>
+  ChatGPT client for terminal use.
  
 
 ## ⚡️ Stats
