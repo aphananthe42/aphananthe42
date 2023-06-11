@@ -1,4 +1,4 @@
-# Aphananthe
+# aphananthe
 
 
 ## 👤 Profile
