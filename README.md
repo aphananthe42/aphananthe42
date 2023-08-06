@@ -26,18 +26,24 @@ Seeker of good sleep 🛌
 
 [![GitHub Arrivals](https://komarev.com/ghpvc/?username=aphananthe42)](https://github.com/aphananthe42)
 
-<a href="https://github.com/aphananthe42">
+<p align="left">
   <img 
-    align="left"
+    alt="github-stats"
     height="170px" 
     src="https://github-readme-stats.vercel.app/api?username=aphananthe42&show_icons=true&count_private=true&theme=tokyonight" 
   />
-</a>
-
-<a href="https://github.com/aphananthe42">
   <img 
-    align="left"
-    height="165px"
+    alt="most-used-languages"
+    height="170px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphananthe42&layout=compact&theme=tokyonight"
   />
-</a>
+</p>
+
+<p align="left">
+  <img 
+    alt="aws-certified-cloud-practitioner"
+    height="100px"
+    width="100px"
+    src="https://github.com/aphananthe42/aphananthe42/assets/68156481/eb78265f-eda4-4c67-a878-adadb2b23a6c"
+  />
+</p>
