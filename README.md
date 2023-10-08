@@ -25,7 +25,7 @@ Seeker of good sleep 🛌
     alt="aws-certified-developer-associate"
     height="100px"
     width="100px"
-    src="https://github.com/aphananthe42/aphananthe42/assets/68156481/eb78265f-eda4-4c67-a878-adadb2b23a6c"
+    src="https://github.com/aphananthe42/aphananthe42/assets/68156481/11001fd9-3e47-441b-b13c-aaf7aa8ca0eb"
   />
 </p>
 
