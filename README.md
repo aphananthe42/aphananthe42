@@ -33,7 +33,7 @@ Seeker of good sleep 🛌
   <img 
     alt="github-stats"
     height="170px" 
-    src="https://github-readme-stats.vercel.app/api?username=aphananthe42&show_icons=true&count_private=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=aphananthe42&show_icons=false&count_private=true&theme=tokyonight" 
   />
   <img 
     alt="most-used-languages"
