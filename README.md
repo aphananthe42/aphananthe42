@@ -13,7 +13,14 @@ Seeker of good sleep 🛌
 
 ## ⚡️ Stats
 
-[![GitHub Arrivals](https://komarev.com/ghpvc/?username=aphananthe42)](https://github.com/aphananthe42)
+<p align="left">
+ <a href="https://github.com/aphananthe42">
+  <img src="https://komarev.com/ghpvc/?username=aphananthe42&style=for-the-badge" alt="aphananthe42" />
+ </a>
+ <a href="https://github.com/aphananthe42">
+  <img src="https://img.shields.io/badge/TOEIC-860-darkblue?style=for-the-badge" alt="aphananthe42" />
+ </a>
+</p>
 
 <p align="left">
   <img 
