@@ -17,9 +17,9 @@ Seeker of good sleep 🛌
  <a href="https://github.com/aphananthe42">
   <img src="https://komarev.com/ghpvc/?username=aphananthe42&style=for-the-badge" alt="aphananthe42" />
  </a>
- <a href="https://github.com/aphananthe42">
+<!--  <a href="https://github.com/aphananthe42">
   <img src="https://img.shields.io/badge/TOEIC-860-darkblue?style=for-the-badge" alt="aphananthe42" />
- </a>
+ </a> -->
 </p>
 
 <p align="left">
