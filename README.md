@@ -35,7 +35,14 @@ Seeker of good sleep 🛌
     width="100px"
     src="https://github.com/aphananthe42/aphananthe42/assets/68156481/11001fd9-3e47-441b-b13c-aaf7aa8ca0eb"
   />
+ <img 
+    alt="aws-certified-sysops-administrator-associate"
+    height="100px"
+    width="100px"
+    src="https://github.com/aphananthe42/aphananthe42/assets/68156481/9652972c-abb9-4c59-9c1c-e34986cb13c2"
+  />
 </p>
+
 
 <p align="left">
   <img 
