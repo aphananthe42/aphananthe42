@@ -6,10 +6,6 @@
 iOS Developer as job 💻 <br>
 Seeker of good sleep 🛌
 
-- [AtCoder](https://atcoder.jp/users/aphananthe42)
-- [Zenn](https://zenn.dev/aphananthe42)
-- [X(Twitter)](https://twitter.com/aphananthe42)
-
 <!-- 
 ## 🛠️ Dev
 
