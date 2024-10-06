@@ -42,6 +42,12 @@ Seeker of good sleep 🛌
     width="100px"
     src="https://github.com/aphananthe42/aphananthe42/assets/68156481/9652972c-abb9-4c59-9c1c-e34986cb13c2"
   />
+ <img 
+    alt="certified-scrum-master"
+    height="100px"
+    width="100px"
+    src="https://github.com/user-attachments/assets/7b4ee9c5-52ee-46e4-af35-78f1a7e7b07c"
+  />
 </p>
 
 
